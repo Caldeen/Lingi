@@ -9,6 +9,6 @@ Jako użytkownik chcę mieć możliwość podglądu swojego progresu, żeby mie�
 Jako użytkownik chcę widzieć polecane do rozwiązania testy, żeby nie musieć ich szukać  
 Jako użytkownik chcę mieć informację o wiarygodności testu, żebym miał pewność poprawnej nauki  
 
-Jako użytkownik chcę oceniać rozwiązane testy, bym mógł wyrazić swoją opinię
-Jako użytkownik chcę zreportować złe testy (wulgarne, zły poziom trudności), by je ukryć
-Jako użytkownik chcę by testy miały kategorie, bym wiedział czego test dotyczy
+Jako użytkownik chcę oceniać rozwiązane testy, bym mógł wyrazić swoją opinię  
+Jako użytkownik chcę zreportować złe testy (wulgarne, zły poziom trudności), by je ukryć  
+Jako użytkownik chcę by testy miały kategorie, bym wiedział czego test dotyczy  
